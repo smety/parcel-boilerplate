@@ -1,0 +1,22 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smety/parcel-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smety/parcel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/smety/parcel-boilerplate#readme",
+  "devDependencies": {
+    "parcel": "2.0.0-alpha.3.2"
+  }
+}
